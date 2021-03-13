@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dougl\\source\\repos\\HospedeHotel\\HospedeHotel\\HospedeHotel.csproj",
+      "projectUniqueName": "C:\\Users\\dougl\\source\\repos\\ReservaHospedeHotel\\HospedeHotel\\HospedeHotel\\HospedeHotel.csproj",
       "projectName": "HospedeHotel",
-      "projectPath": "C:\\Users\\dougl\\source\\repos\\HospedeHotel\\HospedeHotel\\HospedeHotel.csproj",
+      "projectPath": "C:\\Users\\dougl\\source\\repos\\ReservaHospedeHotel\\HospedeHotel\\HospedeHotel\\HospedeHotel.csproj",
       "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dougl\\source\\repos\\HospedeHotel\\HospedeHotel\\obj\\",
+      "outputPath": "C:\\Users\\dougl\\source\\repos\\ReservaHospedeHotel\\HospedeHotel\\HospedeHotel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config",

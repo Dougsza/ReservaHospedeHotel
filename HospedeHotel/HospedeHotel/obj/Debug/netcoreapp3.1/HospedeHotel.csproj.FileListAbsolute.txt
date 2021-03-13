@@ -1,0 +1,13 @@
+C:\Users\dougl\source\repos\ReservaHospedeHotel\HospedeHotel\HospedeHotel\bin\Debug\netcoreapp3.1\HospedeHotel.exe
+C:\Users\dougl\source\repos\ReservaHospedeHotel\HospedeHotel\HospedeHotel\bin\Debug\netcoreapp3.1\HospedeHotel.deps.json
+C:\Users\dougl\source\repos\ReservaHospedeHotel\HospedeHotel\HospedeHotel\bin\Debug\netcoreapp3.1\HospedeHotel.runtimeconfig.json
+C:\Users\dougl\source\repos\ReservaHospedeHotel\HospedeHotel\HospedeHotel\bin\Debug\netcoreapp3.1\HospedeHotel.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\ReservaHospedeHotel\HospedeHotel\HospedeHotel\bin\Debug\netcoreapp3.1\HospedeHotel.dll
+C:\Users\dougl\source\repos\ReservaHospedeHotel\HospedeHotel\HospedeHotel\bin\Debug\netcoreapp3.1\HospedeHotel.pdb
+C:\Users\dougl\source\repos\ReservaHospedeHotel\HospedeHotel\HospedeHotel\obj\Debug\netcoreapp3.1\HospedeHotel.csprojAssemblyReference.cache
+C:\Users\dougl\source\repos\ReservaHospedeHotel\HospedeHotel\HospedeHotel\obj\Debug\netcoreapp3.1\HospedeHotel.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\ReservaHospedeHotel\HospedeHotel\HospedeHotel\obj\Debug\netcoreapp3.1\HospedeHotel.AssemblyInfo.cs
+C:\Users\dougl\source\repos\ReservaHospedeHotel\HospedeHotel\HospedeHotel\obj\Debug\netcoreapp3.1\HospedeHotel.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\ReservaHospedeHotel\HospedeHotel\HospedeHotel\obj\Debug\netcoreapp3.1\HospedeHotel.dll
+C:\Users\dougl\source\repos\ReservaHospedeHotel\HospedeHotel\HospedeHotel\obj\Debug\netcoreapp3.1\HospedeHotel.pdb
+C:\Users\dougl\source\repos\ReservaHospedeHotel\HospedeHotel\HospedeHotel\obj\Debug\netcoreapp3.1\HospedeHotel.genruntimeconfig.cache
